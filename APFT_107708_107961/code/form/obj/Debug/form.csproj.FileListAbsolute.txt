@@ -1,0 +1,57 @@
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.AreaServicoPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.EmployeePage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.GasolinePage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.LoginPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.OrderCreationPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.OrdersPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.PerfilPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.RegisterPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.SeeOrderPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.StockPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\bin\Debug\form.exe.config
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\bin\Debug\form.exe
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\bin\Debug\form.pdb
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.exe
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\source\form\obj\Debug\form.pdb
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.AreaServicoPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.EmployeePage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.GasolinePage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.LoginPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.OrderCreationPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.OrdersPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.PerfilPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.RegisterPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.SeeOrderPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.StockPage.resources
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.exe
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\obj\Debug\form.pdb
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\bin\Debug\form.exe.config
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\bin\Debug\form.exe
+C:\Users\joaog\OneDrive - Universidade de Aveiro\Desktop\projeto_bd\code\form\bin\Debug\form.pdb
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\bin\Debug\form.exe.config
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\bin\Debug\form.exe
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\bin\Debug\form.pdb
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.AreaServicoPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.EmployeePage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.GasolinePage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.LoginPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.OrderCreationPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.OrdersPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.PerfilPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.RegisterPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.SeeOrderPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.StockPage.resources
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.exe
+C:\Users\gui28\OneDrive\Documentos\GitHub\projeto_bd\code\form\obj\Debug\form.pdb
